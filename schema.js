@@ -1,4 +1,4 @@
-exports.typeDefs = `
+export const typeDefs = `
 
 type Recipe {
     _id: ID
